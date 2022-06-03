@@ -31,6 +31,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/76992852/171967836-22aa85fd-2650-4b70-bf2c-2966513ebb00.gif)
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/).
