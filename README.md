@@ -39,7 +39,7 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+view binding and working with the youtube api. 
 
 ## Open-source libraries used
 
